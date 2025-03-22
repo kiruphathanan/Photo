@@ -1,0 +1,12 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+}
+main {
+    max-width: 900px;
+    margin: auto;
+    box-shadow: bisque;
+}
+.caption{
+    box-shadow: inset   ;
+} 
